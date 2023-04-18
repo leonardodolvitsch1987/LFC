@@ -1,0 +1,9 @@
+Exemplo 2: 
+Bool par 
+Int achaPar(par){ 
+String acha(){ 
+return 0; 
+} 
+Ola = acharPar() 
+Print(ola) 
+ 
